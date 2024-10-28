@@ -71,3 +71,5 @@
 <img src="https://raw.githubusercontent.com/0TenX1/0TenX1/output/snake.svg" alt="Snake animation" />
 
 ###
+<h2 align="left">What im currently following?</h2>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66c9beb992ec1a8a73184499?variant=dark" alt="roadmap.sh"/></a>
