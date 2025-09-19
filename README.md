@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siddhant and I'm a ...idk from India</h2>
+<h2 align="left">likes camelCase, creepers & kotlin</h2>
 
 ###
 
